@@ -25,6 +25,8 @@ What is the largest problem instance for your problem which you can solve on a q
 
 ## Submitting your project
 
+**Project submissions are due on Sunday, January 22nd, at 5 pm PST.**
+
 Your project:
 
 * Must include a problem description and instructions on running the project in README.md file.
@@ -53,9 +55,14 @@ We'll be evaluating the projects based on several criteria. Here is the list of 
 ## Prizes
 
 Up to (3) teams with the highest team scores will be chosen as the winners of the Hackathon.
+
+**The winners will be announced on Tuesday, January 24th, at the NQN Summit.**
+
 Each member of the winning teams will get:
 * A Surface 2 headset
 * A copy of ["Q# Pocket Guide"](https://www.oreilly.com/library/view/q-pocket-guide/9781098108854/) signed by the author
 * An $50 gift card
+
+Additionally, each winning team will get a 1-hour mentoring session with an Azure Quantum team leader (to be scheduled separately after the NQN Summit).
 
 ## Resources
