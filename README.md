@@ -41,7 +41,7 @@ To submit your project:
 1. Create a GitHub repository.
 2. Commit your work to your repository.  
    *Make sure to commit any files you consider relevant: the project itself, screenshots of results, any visualizations you've done, the project description, and so on.*
-3. To submit your project, submit the link to your repository to **TBD**.  
+3. To submit your project, submit the link to your repository to https://aka.ms/NQNHack/ProjectSubmit.  
    *Your repository has to be made public at the time of the Hackathon end for us to be able to judge your solutions. We don't recommend making your work public early during the Hackathon, so as not to tempt other teams to borrow from your work. Let everybody enjoy their exploration!*
 
 ## Judging
