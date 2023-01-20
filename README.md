@@ -70,6 +70,8 @@ Additionally, each winning team will get a 1-hour mentoring session with an Azur
 ### Hackathon resources
 
 * [Hackathon kickoff slides (January 20)](https://github.com/tcNickolas/NQN-Hack-2023-Challenge/blob/main/2023_01_20_NQN_Hack_kickoff.pdf)
+* [Virtual Workshop #1 - Intro to Azure Quantum](https://youtu.be/fhhAUwk-b40)
+* [Virtual Workshop #2 - Jumpstart your trapped ion quantum computing experiments](https://youtu.be/7a35Ao0NDQw)
 * [Project example 1: Find bit strings with alternating bits using Grover's search](https://github.com/tcNickolas/NQN-Hack-2023-Challenge/blob/main/GroverSearch_AlternatingBits.ipynb)
 * [Project example 2: Solve a Sudoku puzzle using Grover’s search](https://github.com/tcNickolas/NQN-Hack-2023-Challenge/blob/main/GroverSearch_SolveSudoku.ipynb)
 * [Discord server](https://discord.gg/yAAA8bdd)
