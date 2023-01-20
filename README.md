@@ -66,3 +66,21 @@ Each member of the winning teams will get:
 Additionally, each winning team will get a 1-hour mentoring session with an Azure Quantum team leader (to be scheduled separately after the NQN Summit).
 
 ## Resources
+
+### Hackathon resources
+
+* [Hackathon kickoff slides (January 20)](https://github.com/tcNickolas/NQN-Hack-2023-Challenge/blob/main/2023_01_20_NQN_Hack_kickoff.pdf)
+* [Project example 1: Find bit strings with alternating bits using Grover's search](https://github.com/tcNickolas/NQN-Hack-2023-Challenge/blob/main/GroverSearch_AlternatingBits.ipynb)
+* [Project example 2: Solve a Sudoku puzzle using Grover’s search](https://github.com/tcNickolas/NQN-Hack-2023-Challenge/blob/main/GroverSearch_SolveSudoku.ipynb)
+
+### Azure Quantum resources
+
+* [Azure Quantum and Microsoft Quantum Development Kit documentation](https://learn.microsoft.com/azure/quantum/)
+* [Understanding job costs in Azure Quantum](https://learn.microsoft.com/azure/quantum/azure-quantum-job-costs)
+* [Tracking limits and quotas](https://learn.microsoft.com/azure/quantum/azure-quantum-quotas)
+
+### Learning resources
+
+* [The Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - a collection of tutorials and practice problems.
+* Microsoft Learn learning path ["Quantum computing foundations"](https://docs.microsoft.com/learn/paths/quantum-computing-fundamentals/).
+* [Q# developer blog](https://devblogs.microsoft.com/qsharp/).
